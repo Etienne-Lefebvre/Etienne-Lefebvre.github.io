@@ -5,7 +5,7 @@ description: Interesting streets
 background: '/img/bg-post.jpg'
 ---
 
-{% for post in paginator.posts %}
+{% for post in paginator.urbanism %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -37,11 +37,11 @@ background: '/img/bg-post.jpg'
 
   {% if paginator.previous_page %}
   <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
+    Newer<span class="d-none d-md-inline"> urbanism</span></a>
   {% endif %}
 
   {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> urbanism</span> &rarr;</a>
   {% endif %}
 
 </div>

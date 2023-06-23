@@ -1,6 +1,6 @@
 ---
 layout: page
-title: notes
+title: Notes
 description: What I recently read along with some personal notes.
 background: '/img/bg-about.jpg'
 ---

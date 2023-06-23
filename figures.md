@@ -1,6 +1,6 @@
 ---
 layout: page
-title: figures
+title: Figures
 description: Interesting graphs and figures
 background: '/img/bg-about.jpg'
 ---

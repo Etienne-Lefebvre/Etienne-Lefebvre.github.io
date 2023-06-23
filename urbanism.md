@@ -2,7 +2,7 @@
 layout: page
 title: Urbanism
 description: Streets, houses, and people
-background: '/img/bg about.jpg'
+background: '/img/bg-about.jpg'
 ---
 
 ![247](\img\urbanism\DSC_0247.JPG)

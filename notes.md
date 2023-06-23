@@ -2,7 +2,7 @@
 layout: page
 title: notes
 description: What I recently read along with some personal notes.
-background: '/img/bg about.jpg'
+background: '/img/bg-about.jpg'
 ---
 # June 2023
 - **[Earlier collapse of Anthropocene ecosystems driven by multiple faster and noisier drivers](https://www.nature.com/articles/s41893-023-01157-x)**

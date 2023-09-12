@@ -7,8 +7,8 @@ background: '/img/bg-about.jpg'
 # France
 * Strasbourgh 
     * Attend European Parliament Planery Session. The next sessions are: 2 to 5 October, 16 to 19 October, 8 and 9 November, 20 to 23 November, 11 to 14 December.
-    * [Link to more info about visiting during a live session](https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-during-plenary-session)
-
+    * *[Link to more info about visiting during a live session](https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-during-plenary-session)*
+    
 # Germany
 
 ### Leipzig

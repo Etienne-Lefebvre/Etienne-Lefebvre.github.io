@@ -8,12 +8,13 @@ background: '/img/bg-about.jpg'
 * Strasbourgh 
     * Attend European Parliament Planery Session. The next sessions are: 2 to 5 October, 16 to 19 October, 8 and 9 November, 20 to 23 November, 11 to 14 December.
     * *[Link to more info about visiting during a live session](https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-during-plenary-session)*
-    
+
 # Germany
 
 ### Leipzig
-* Attend [Bach fest](https://www.bachfestleipzig.de/de/bachfest) from **June 7th to 16th 2024**
+* Attend Bach fest from **June 7th to 16th 2024**
     * Pre-sales start **Nov 20th 2023**
+    * *[Link to website](https://www.bachfestleipzig.de/de/bachfest)*
 
 # Spain
 
@@ -21,6 +22,7 @@ background: '/img/bg-about.jpg'
 * Attend Degrowth + Ecological Economics Conference from **June 18 – 21 2024**
     * Consider sending a proposal for special session
         * Deadline for submitting proposals is **October 16, 2023**
+        * *[More info on proposal submissions](https://esee-degrowth2024.uvigo.gal/en/practical-information/news-media-and-gallery/news/2023-09-11-special-sessions-call-is-now-open/)*
 
 # Poland   
 ------------------

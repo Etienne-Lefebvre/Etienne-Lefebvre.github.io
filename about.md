@@ -3,6 +3,7 @@ layout: page
 title: About Me
 description: and this website.
 background: '/img/bg-about.jpg'
+permalink: /about/
 ---
 
 

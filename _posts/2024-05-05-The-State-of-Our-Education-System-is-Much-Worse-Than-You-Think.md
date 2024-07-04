@@ -3,7 +3,7 @@ layout: post
 title: "The State of Our Education System is Much Worse Than You Think"
 subtitle: "The Prussian School Model & The Meta-Crisis"
 date: 2023-06-18 23:45:13 -0400
-background: '/img/posts/DSC_0167.jpg'
+background: '/img/posts/DSC_0167.JPG'
 permalink: /the-state-of-our-education-system-is-much-worse-than-you-think/
 ---
 We all know just how bad our public schools have become, just look at all the recent r/teacher adjacent posts that often end up being posted on the r/collapse subreddit [1](https://old.reddit.com/r/collapse/comments/1aomftb/trending_on_rteachers/),[2](https://old.reddit.com/r/collapse/comments/13e9k99/on_rteachers/),[3](https://old.reddit.com/r/collapse/comments/riuezy/i_hate_being_a_teacher_in_america/),[4](https://old.reddit.com/r/collapse/comments/rii7dj/rteachers_is_a_shitshow_right_now_the_content/). 

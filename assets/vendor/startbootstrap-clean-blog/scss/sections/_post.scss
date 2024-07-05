@@ -1,6 +1,6 @@
 // Styling for the post page
 .post-preview {
-    >a {
+    > a {
         color: $gray-900;
 
         &:focus,
@@ -9,25 +9,25 @@
             color: $primary;
         }
 
-        >.post-title {
+        > .post-title {
             font-size: 30px;
             margin-top: 30px;
             margin-bottom: 10px;
         }
 
-        >.post-subtitle {
+        > .post-subtitle {
             font-weight: 300;
             margin: 0 0 10px;
         }
     }
 
-    >.post-meta {
+    > .post-meta {
         font-size: 18px;
         font-style: italic;
         margin-top: 0;
         color: $gray-600;
 
-        >a {
+        > a {
             text-decoration: none;
             color: $gray-900;
 
@@ -40,13 +40,26 @@
     }
 
     @media only screen and (min-width: 768px) {
-        >a {
-            >.post-title {
+        > a {
+            > .post-title {
                 font-size: 36px;
             }
         }
     }
 }
-img {
-    width: 150%;
+
+.post-content {
+    img {
+        width: 75vw; /* Full viewport width */
+        max-width: none; /* Remove the default max-width */
+        display: block;
+        margin-left: 50%; /* Start at the middle of the container */
+        transform: translateX(-50%); /* Shift back by 50% of its own width */
+        padding: 0;
+    }
+}
+
+// Styling for the page content
+.page-content img {
+    width: 100%; // Or whatever size you want for page images
 }

@@ -17,7 +17,7 @@ background: '/img/bg-about.jpg'
 [![carbon pulse](\img\figures\carbon_pulse.jpg)](https://escholarship.org/uc/item/9js5291m)
 
 ## Carbon Tunnel Vision
-[![carbon tunnel vision](\img\figures\carbon_tunnel_vision.jpg)](https://www.reddit.com/r/collapse/comments/1c275xk/carbon_tunnel_vision_collapse_edition/)
+[![carbon tunnel vision](\img\figures\Carbon_tunnel_vision.jpg)](https://www.reddit.com/r/collapse/comments/1c275xk/carbon_tunnel_vision_collapse_edition/)
 
 ## Global Energy Capacity & Global Population
 [![energy and population](\img\figures\energy_population.jpg)](https://escholarship.org/uc/item/9js5291m)

@@ -1,4 +1,4 @@
-// Styling for the post page
+// Styling for the postimages page
 .post-preview {
     > a {
         color: $gray-900;
@@ -48,6 +48,7 @@
     }
 }
 
+// Styling for the post content in postimages
 .post-content {
     img {
         width: 80vw; /* Full viewport width */
@@ -57,9 +58,55 @@
         transform: translateX(-50%); /* Shift back by 50% of its own width */
         padding: 0;
     }
+
+    p {
+        font-size: 18px;
+        line-height: 1.6;
+        color: $gray-700;
+    }
+
+    blockquote {
+        font-size: 1.2em;
+        margin: 20px 0;
+        padding: 10px 20px;
+        border-left: 5px solid $primary;
+        background: #f9f9f9;
+    }
+
+    .image-caption {
+        font-size: 0.9em;
+        text-align: center;
+        margin-top: -10px;
+        margin-bottom: 20px;
+        color: $gray-600;
+    }
 }
 
-// Styling for the page content
+// Additional styling for photography-centric posts
+header.masthead {
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    min-height: 300px;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.post-heading {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.post-heading h1 {
+    font-size: 2.5em;
+}
+
+.post-heading .subheading {
+    font-size: 1.5em;
+    font-weight: 300;
+}
+
 .page-content img {
     width: 100%; // Or whatever size you want for page images
 }

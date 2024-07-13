@@ -9,7 +9,7 @@ permalink: /the-lines-that-show-the-inevitability-of-collapse/
 
 Welcome to the Carbon Pulse. A brief period in human history where our societal hubris convinced us that the laws of the biosphere, like carrying capacity, do not affect us.I decided to start with the population line because it's a strong image that clearly shows the unsustainability of our trajectory. There are simply no population graphs like this, of any living species, that isnt followed with a proportionally precipitous decline. For thousands of years, the human population was fairly stable at <100 million humans, and within the span of a geological eye-blink, we are now pushing towards 9 billion humans.
 
-![140](img\posts\world_population.png)
+![140](\img\posts\world_population.png)
 
 
 For most of that time we lived in synergy with our life-giving ecosystems, and we took part in maintaining what are called complete ecosystems. Complete ecosystems have a carefully calibrated number Macro-consumers (animals and humans) that selfproduce by consuming plants or other macroconsumers, and micro-consumers self-produce by decomposing the bodies of both plants and animals and returning nutrients to the soil so the cycle can repeat continuously. Importantly these complete ecosystems are able to maintain themselves and thrive indefinitely by continuously transforming and recycling matter and assimilating waste.

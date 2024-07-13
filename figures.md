@@ -37,14 +37,20 @@ background: '/img/bg-about.jpg'
 ## Moving Towards Lower EROI and Higher Cost Oil Wells
 ![Moving Towards Lower EROI and Higher Cost Oil Wells](\img\figures\oil_discovery2.png)
 
-## The 4 Pillars of Industrial Civilization That Can't be Electrified at Scale
+## The 4 Pillars of Industrial Civilization That Can't be Electrified
 ![The 4 Pillars of Industrial Civilization That Can't be Electrified at Scale](\img\figures\four_pillars.png)
 
-## Economic Growth is at Odds with Longterm Civilizationa Sustainability
+## Economic Growth is at Odds with Longterm Civilizational Sustainability
 ![Economic Growth is at Odds with Longterm Civilizationa Sustainability](\img\figures\no_mans_land.jpg)
 
 ## Fossil Fuels are the Economy
 ![Fossil Fuels are the Economy](\img\figures\oilvsgdp.png)
 
+## Green Growth is an Oxymoron
+![Green Growth is an Oxymoron](\img\figures\Theres_no_green_growth.jpg)
+
 ## Disruptions on the Horizon - Canadian Gov Report
 [![Figure 1 shows all 35 disruptions depicted along three dimensions: likelihood, impact, and time horizon. It displays the average result for each dimension, according to survey respondents](\img\notes\disruptions_horizon.jpg)](https://horizons.service.canada.ca/en/2024/disruptions/index.shtml#report)
+
+## Current Warming Rate VS Historic Mass Extinctions
+[![Fossil Fuels are the Economy](\img\figures\historic_extinctions_warming.jpg)](https://thecottonwoodpost.net/2019/12/10/modern-climate-change-is-10x-faster-than-historic-global-warming-mass-extinction-events/)

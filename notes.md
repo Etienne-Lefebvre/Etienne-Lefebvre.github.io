@@ -3,6 +3,7 @@ layout: page
 title: Notes
 description: What I've read along with some personal notes.
 background: 'img/bg-notes.jpg'
+permalink: /notes/
 ---
 
 ### Reports

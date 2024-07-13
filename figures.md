@@ -3,6 +3,7 @@ layout: page
 title: Figures
 description: Interesting graphs and figures
 background: '/img/bg-about.jpg'
+permalink: /figures/
 ---
 ## Ecological Overshoot
 [![Figure 1](\img\figures\Ecological_Overshoot.jpg)](\img\figures\Why_Large_Cities_Wont_Survive_the_Twenty-First_Century.pdf)

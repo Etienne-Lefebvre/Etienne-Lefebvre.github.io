@@ -1,6 +1,6 @@
 // Global styling for this template
 body {
-    font-size: 20px;
+    font-size: 17px;
     color: $gray-900;
 }
 
@@ -20,6 +20,31 @@ h4,
 h5,
 h6 {
     font-weight: 800;
+}
+
+// Adjusting font sizes for headings
+h1 {
+    font-size: 2em; /* Adjust as needed, e.g., 2em, 32px, etc. */
+}
+
+h2 {
+    font-size: 1.75em; /* Adjust as needed, e.g., 1.75em, 28px, etc. */
+}
+
+h3 {
+    font-size: 1.5em; /* Adjust as needed, e.g., 1.5em, 24px, etc. */
+}
+
+h4 {
+    font-size: 1.25em; /* Adjust as needed, e.g., 1.25em, 20px, etc. */
+}
+
+h5 {
+    font-size: 1em; /* Adjust as needed, e.g., 1em, 16px, etc. */
+}
+
+h6 {
+    font-size: 0.875em; /* Adjust as needed, e.g., 0.875em, 14px, etc. */
 }
 
 a {

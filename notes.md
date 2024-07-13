@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 description: What I've read along with some personal notes.
-background: 'img/DSC_0818.jpg'
+background: 'img/bg-notes.jpg'
 ---
 
 ### Reports

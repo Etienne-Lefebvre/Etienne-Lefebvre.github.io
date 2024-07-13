@@ -25,11 +25,17 @@ background: '/img/bg-about.jpg'
 ## Global EROI of oil
 ![alt text](\img\figures\EROI of oil.png)
 
+## Global Debt Increases as EROI decreases
+![alt text](\img\figures\global_debt.webp)
+
 ## Moving Towards Lower Quality Oil
 [![Moving Towards Lower Quality Oil](\img\figures\oil_quality.png)](https://read.realityblind.world/view/975731937/230/)
 
 ## Moving Towards Lower Quality Oil #2
 [![Moving Towards Lower Quality Oil #2](\img\figures\oil_quality2.png)](https://read.realityblind.world/view/975731937/264/)
+
+## Majority of US Oil Production is Unconventional Oil
+![Majority of US Oil Production is Unconventional Oil](\img\figures\us_oil.png)
 
 ## Gap Between Oil Discovery & Oil Production
 ![Gap Between Oil Discovery & Oil Production](\img\figures\oil_discovery.png)
@@ -51,6 +57,9 @@ background: '/img/bg-about.jpg'
 
 ## Disruptions on the Horizon - Canadian Gov Report
 [![Figure 1 shows all 35 disruptions depicted along three dimensions: likelihood, impact, and time horizon. It displays the average result for each dimension, according to survey respondents](\img\notes\disruptions_horizon.jpg)](https://horizons.service.canada.ca/en/2024/disruptions/index.shtml#report)
+
+## What Does a Low EROI Future Look Like?
+[![What Does a Low EROI Future Look Like?](\img\figures\degrowth_energy.jpg)](https://read.realityblind.world/view/975731937/250/)
 
 ## Current Warming Rate VS Historic Mass Extinctions
 [![Fossil Fuels are the Economy](\img\figures\historic_extinctions_warming.jpg)](https://thecottonwoodpost.net/2019/12/10/modern-climate-change-is-10x-faster-than-historic-global-warming-mass-extinction-events/)

@@ -7,12 +7,6 @@ background: '/img/bg-about.jpg'
 ## Ecological Overshoot
 [![Figure 1](\img\figures\Ecological_Overshoot.jpg)](\img\figures\Why_Large_Cities_Wont_Survive_the_Twenty-First_Century.pdf)
 
-## Global EROI of oil
-![alt text](\img\figures\EROI of oil.png)
-
-## Disruptions on the Horizon - Canadian Gov Report
-[![Figure 1 shows all 35 disruptions depicted along three dimensions: likelihood, impact, and time horizon. It displays the average result for each dimension, according to survey respondents](\img\notes\disruptions_horizon.jpg)](https://horizons.service.canada.ca/en/2024/disruptions/index.shtml#report)
-
 ## The Carbon Pulse
 [![carbon pulse](\img\figures\carbon_pulse.jpg)](https://escholarship.org/uc/item/9js5291m)
 
@@ -27,3 +21,30 @@ background: '/img/bg-about.jpg'
 
 ## Global Primary Energy Consumption
 [![global primary energy consumption](\img\figures\primary_energy.jpg)](https://ourworldindata.org/grapher/global-primary-energy)
+
+## Global EROI of oil
+![alt text](\img\figures\EROI of oil.png)
+
+## Moving Towards Lower Quality Oil
+[![Moving Towards Lower Quality Oil](\img\figures\oil_quality.png)](https://read.realityblind.world/view/975731937/230/)
+
+## Moving Towards Lower Quality Oil #2
+[![Moving Towards Lower Quality Oil #2](\img\figures\oil_quality2.png)](https://read.realityblind.world/view/975731937/264/)
+
+## Gap Between Oil Discovery & Oil Production
+![Gap Between Oil Discovery & Oil Production](\img\figures\oil_discovery.png)
+
+## Moving Towards Lower EROI and Higher Cost Oil Wells
+![Moving Towards Lower EROI and Higher Cost Oil Wells](\img\figures\oil_discovery2.png)
+
+## The 4 Pillars of Industrial Civilization That Can't be Electrified at Scale
+![The 4 Pillars of Industrial Civilization That Can't be Electrified at Scale](\img\figures\four_pillars.png)
+
+## Economic Growth is at Odds with Longterm Civilizationa Sustainability
+![Economic Growth is at Odds with Longterm Civilizationa Sustainability](\img\figures\no_mans_land.jpg)
+
+## Fossil Fuels are the Economy
+![Fossil Fuels are the Economy](\img\figures\oilvsgdp.png)
+
+## Disruptions on the Horizon - Canadian Gov Report
+[![Figure 1 shows all 35 disruptions depicted along three dimensions: likelihood, impact, and time horizon. It displays the average result for each dimension, according to survey respondents](\img\notes\disruptions_horizon.jpg)](https://horizons.service.canada.ca/en/2024/disruptions/index.shtml#report)

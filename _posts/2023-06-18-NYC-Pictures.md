@@ -1,5 +1,5 @@
 ---
-layout: postimages
+layout: post
 title: "NYC Pictures"
 subtitle: "The streets of NYC"
 date: 2023-06-18 23:45:13 -0400
